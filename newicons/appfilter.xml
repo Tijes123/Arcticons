@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<resources>
+	<!-- CuteMusic -->
+	<item component="ComponentInfo{com.sosauce.cutemusic/com.sosauce.cutemusic.presentation.MainActivity}" drawable="cutemusic"/>
+
+	<!-- On My Way -->
+	<item component="ComponentInfo{nl.plango.omw/nl.plango.omw.main.MainActivity}"; drawable="on_my_way"/>resources>
 
 	<!--  Sesterce  -->
 	<item component="ComponentInfo{io.sesterce.androidapp/io.sesterce.androidapp.MainActivity}" drawable="currency_dollar"/>
